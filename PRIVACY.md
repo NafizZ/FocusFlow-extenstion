@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 2025-01-01
+Last updated: 2026-01-19
 
 FocusFlow is a browser extension that helps users stay focused with timers, break reminders, and optional site blocking. This policy explains how data is handled.
 
